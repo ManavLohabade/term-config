@@ -600,8 +600,34 @@ chmod 755 ~/.local/share
 - [FZF](https://github.com/junegunn/fzf)
 - [Zoxide](https://github.com/ajeetdsouza/zoxide)
 
+## One click installation using brew
+
+```
+brew install \
+  starship \
+  eza \
+  fzf \
+  zoxide \
+  fd \
+  fastfetch \
+  tree \
+  oven-sh/bun/bun \
+  node@22 \
+  nvm \
+  unzip \
+  unrar \
+  p7zip \
+  gzip \
+  bzip2 \
+  git \
+  net-tools
+
+```
+
 ---
 
 ## Contributing
 
 If you have improvements or find issues, please open an issue or submit a pull request.
+
+**Happy coding! 🚀**
